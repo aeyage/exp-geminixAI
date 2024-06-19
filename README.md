@@ -4,7 +4,9 @@ ${\textsf{\color{lightgrey}Work in Progress}}$
 
 **Problem Statement**: Large language models (hereinafter LLMs) typically generate output based on their pre-existing, stored information (cut-off knowledge). This approach can be limiting when we wish the model to generate answers based on our specific dataset or create our bespoke LLM.
 
->LangChain is a powerful library designed to streamline the development and deployment of applications that LLMs. It provides a suite of tools and frameworks to manage and utilise LLMs efficiently, enabling developers to create applications that can understand and generate human-like text. We will explore how it works, and how it can be integrated with Gemini AI for enhanced capabilities.
+>LangChain is a powerful library designed to streamline the development and deployment of applications that LLMs. It provides a suite of tools and frameworks to manage and utilise LLMs efficiently, enabling developers to create applications that can understand and generate human-like text.
+
+We will explore how it works, and how it can be integrated with Gemini AI for enhanced capabilities.
 
 ## Prerequisites
 1. **Python Environment** - Python 3.6 or later. A venv is recommended for managing dependencies.
