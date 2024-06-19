@@ -32,4 +32,4 @@ Modify the notebooks as you see fit to interact with Gemini. It can be used for 
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the GPL-3.0 license.
